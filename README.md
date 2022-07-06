@@ -1,4 +1,8 @@
 # Human_Activity
+bulid a model a in teachable machine and visualized in streamlit framework
+
+
+
 
 **POSE IDENTIFICATION** is a computer vision task that infers the pose of a person or object in an mage or video.
  We can also think of pose identification as the problem of determining the position and orientation of a camera relative to a given person or object.
@@ -29,6 +33,18 @@
     Streamlit's architecture allows you to write apps the same way you write plain Python scripts. To unlock this, Streamlit apps have a unique data flow: any time something must be updated on the screen, Streamlit reruns your entire Python script from top to bottom.
     This can happen in two situations:
     
-**HOW TO RUN PROJECT**
-   streamlit run main.py
+Software Requirements:
 
+Pandas, Numpy, Streamlit Library
+
+How to Run:
+
+streamlit run model.py
+
+Environment:
+
+python 3.6+
+
+IDE:
+
+Pycharm / Spyder / Visual Studio Code
