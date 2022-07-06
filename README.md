@@ -35,11 +35,11 @@ bulid a model a in teachable machine and visualized in streamlit framework
     
 Software Requirements:
 
-Pandas, Numpy, Streamlit Library
+Streamlit Library, Teachable machine, tensorflow.js
 
 How to Run:
 
-streamlit run model.py
+streamlit run main.py
 
 Environment:
 
