@@ -31,5 +31,4 @@
     
 ** HOW TO RUN PROJECT **
    streamlit run main.py
-    Whenever you modify your app's source code.
-    Whenever a user interacts with widgets in the app. For example, when dragging a slider, entering text in an input box, or clicking a button.
+
