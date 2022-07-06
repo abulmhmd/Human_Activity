@@ -28,5 +28,8 @@
     Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science. In just a few minutes you can build and deploy powerful data apps. So let’s get started!
     Streamlit's architecture allows you to write apps the same way you write plain Python scripts. To unlock this, Streamlit apps have a unique data flow: any time something must be updated on the screen, Streamlit reruns your entire Python script from top to bottom.
     This can happen in two situations:
+    
+** HOW TO RUN PROJECT **
+   streamlit run main.py
     Whenever you modify your app's source code.
     Whenever a user interacts with widgets in the app. For example, when dragging a slider, entering text in an input box, or clicking a button.
