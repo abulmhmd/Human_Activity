@@ -1,4 +1,4 @@
-# Human_Activity
+# Human_Activity_Identification
 bulid a model a in teachable machine and visualized in streamlit framework
 
 
